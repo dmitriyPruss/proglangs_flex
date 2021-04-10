@@ -137,6 +137,9 @@ h3 {
   width: 80%;
   height: 70%;
 }
+.invisible {
+  display: none;
+}
 /* section-3 */
 .third {
   display: flex;
@@ -236,5 +239,5 @@ footer {
   font-variant: small-caps;
   font-size: 0.9em;
   font-weight: 800;
-  font-style: oblique 80deg;
+  font-style: italic;
 }
